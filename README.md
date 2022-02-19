@@ -1,4 +1,4 @@
-# Hi there, I’m John aka Shizukana
+# Hi there, I’m John aka Norovich
 
 ## I'm a Computing Science Student, Literature Graduate, and excessive Tea Drinker :tea::
 - :new_moon: I’m interested in Cyber Security and Electronics :computer:
