@@ -8,7 +8,7 @@
   🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
   
 </div>
-
+<br>
 <div align="center">
   <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
