@@ -5,11 +5,13 @@
 <h3 align="center">A Certified Cybersecurity Practitioner and Software Developer from the UK</h3>
 <br/>
 <div align="center">
+    
+  📖 I am studying MA Business Management and Information Systems.
+  
   🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
 
   🏆 Certified in Cybersecurity through <a href="https://www.isc2.org/">ISC2</a>.
-  
-  📖 I am studying MA Business Management and Information Systems.
+
 </div>
 <br/>
 <h2 align="center">Socials</h2>
