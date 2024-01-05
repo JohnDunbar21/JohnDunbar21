@@ -6,7 +6,7 @@
 
 <div align="center">
   🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
-  
+  📖 I am studying MA Business Management and Information Systems.
 </div>
 <br>
 <div align="center">
