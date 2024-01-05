@@ -24,6 +24,8 @@
   </a>
 </div>
 <br/>
+<h2 align="center">Profile Statistics</h2>
+<br/>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=JohnDunbar21&count_private=true&theme=react&border_radius=10"/>
 </div>
