@@ -9,11 +9,13 @@
   
   📖 I am studying MA Business Management and Information Systems.
 </div>
-<br>
+<br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/john-dunbar-379638243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 <br>
+<h2 align="center">Proficient Languages and Tools</h2>
+<br/>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,python,mysql,java"/>
