@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm*John+Dunbar!;"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+John+Dunbar!;"/>
 </h1>
 
 ## I'm a Computing Science Student, Literature Graduate, and excessive Tea Drinker :tea::
