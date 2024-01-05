@@ -4,7 +4,7 @@
 
 <h3 align="center">A Certified Cybersecurity Practitioner and Software Developer from the UK</h3>
 
-<div align="center>
+<div align="center">
   🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
 </div>
 - :new_moon: I’m interested in Cyber Security and Electronics :computer:
