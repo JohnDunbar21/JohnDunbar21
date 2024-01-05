@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,cs,cpp,python,mysql"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,virtualbox,jetbrains,powershell"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,vbox,jetbrains,powershell"/>
   </a>
 </div>
 
