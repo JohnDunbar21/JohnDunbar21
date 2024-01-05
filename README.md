@@ -6,6 +6,8 @@
 <br/>
 <div align="center">
   🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
+
+  🏆 Certified in Cybersecurity through <a href="https://www.isc2.org/">ISC2</a>.
   
   📖 I am studying MA Business Management and Information Systems.
 </div>
