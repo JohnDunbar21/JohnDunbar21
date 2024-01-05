@@ -12,6 +12,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/john-dunbar-379638243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github, cs, cpp, python, sql"/>
+  </a>
+</div>
 
 <!---
 JohnDunbar21/JohnDunbar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
