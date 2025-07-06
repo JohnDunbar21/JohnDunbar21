@@ -63,10 +63,4 @@
 
 ---
 
-### 📫 Let's Connect
-
-- LinkedIn: [John Dunbar](https://[https://www.linkedin.com/in/john-dunbar-379638243/])
-
----
-
 🧩 *Always learning. Always building. Always securing.*
