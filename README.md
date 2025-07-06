@@ -1,42 +1,73 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+John+Dunbar!;"/>
-</h1>
+<!-- GitHub Profile README -->
 
-<h3 align="center">A Certified Cybersecurity Practitioner and Software Developer from the UK</h3>
-<br/>
-<div align="center">
-    
-  📖 I am studying MA Business Management and Information Systems.
-  
-  🌱 I am currently studying for my <a href="https://www.comptia.org/">CompTia</a> A+ certification exams.
+<h1 align="center">Hi there 👋, I'm an IT & Cybersecurity Engineer</h1>
+<h3 align="center">Transitioning into Linux Development</h3>
 
-  🏆 Certified in Cybersecurity through <a href="https://www.isc2.org/">ISC2</a>.
+---
 
-</div>
-<br/>
-<h2 align="center">Socials</h2>
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/john-dunbar-379638243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-</div>
-<br/>
-<h2 align="center">Proficient Languages and Tools</h2>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,python,mysql,java"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,powershell"/>
-  </a>
-</div>
-<br/>
-<h2 align="center">Profile Statistics</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=JohnDunbar21&count_private=true&theme=react&border_radius=10"/>
-</div>
+### 🧠 About Me
 
-<!---
-JohnDunbar21/JohnDunbar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔐 I'm a cybersecurity and IT infrastructure engineer with a strong background in enterprise security and systems management.  
+🐧 I'm currently shifting gears toward **Linux development** and systems programming.  
+🧰 My toolkit includes a blend of scripting, infrastructure automation, and cloud security tools.
+
+---
+
+### 🚀 Currently Learning
+- Low-level systems programming with **C** and **C++**
+- Linux kernel fundamentals and device interfacing
+- Building open-source tools and CLI applications
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### **Languages & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+#### **Cloud & Endpoint Management**
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/EntraID-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+#### **Security Tools**
+<p>
+  <img src="https://img.shields.io/badge/ThreatLocker-FF4500?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inforcer-6A1B9A?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
+
+#### **IT & RMM Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Meraki-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datto%20RMM-00457C?style=for-the-badge&logo=datto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autotask-0066B3?style=for-the-badge&logo=autotask&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Glue-8B0000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [John Dunbar](https://[https://www.linkedin.com/in/john-dunbar-379638243/])
+
+---
+
+🧩 *Always learning. Always building. Always securing.*
