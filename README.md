@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Meraki-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Datto%20RMM-00457C?style=for-the-badge&logo=datto&logoColor=white" />
   <img src="https://img.shields.io/badge/Autotask-0066B3?style=for-the-badge&logo=autotask&logoColor=white" />
-  <img src="https://img.shields.io/badge/IT%20Glue-8B0000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
@@ -59,7 +58,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnDunbar21&show_icons=true&theme=default" />
 </p>
 
 ---
